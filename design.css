@@ -1,35 +1,42 @@
 #Name {
     text-align: center;
     font-family: 'Arial Black';
-    font-size: 40px;
+    font-size: 45px;
+    background-color: transparent;
 }
-
-#Full_Name {
-    color: #06bffd;
+#fullName_h2 {
+    color: #00a2ff;
+    font-size: 50px;
 }
-
 #myPic {
     width: 400px;
     display: block;
     margin-right: auto;
     margin-left: auto;
 }
-
 p {
     font-family: 'Century Gothic';
     text-align: justify;
-    font-stretch: 110%;
-    margin-right: 20%;
-    margin-left: 20%;
+    margin-right: 10%;
+    margin-left: 10%;
     font-size: 23px;
-    
 }
-
-#Nickname, #Fave_CMSC_Subject, #Fave_GE_Course, #Fave_PL, #Fave_Food {
+#fullName_p, #Nickname, #Fave_CMSC_Subject, #Fave_GE_Course, #Fave_PL, #Fave_Food {
     background-color: #bdeeff;
     font-weight: bold;
 }
-
 body{
+    background-image: url('images/dotBackground.png');
+    background-repeat: repeat;
+    background-size: 28px;
+    background-position: center;
+}
+div {
     background-color: white;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
