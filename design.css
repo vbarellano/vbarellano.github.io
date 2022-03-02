@@ -27,9 +27,12 @@ p {
 }
 body{
     background-image: url('images/dotBackground.png');
+    background-color: white;
     background-repeat: repeat;
     background-size: 28px;
     background-position: center;
+    margin-top: 0%;
+    margin-bottom: 0;
 }
 div {
     background-color: white;
