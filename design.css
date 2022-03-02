@@ -1,11 +1,11 @@
 #Name {
     text-align: center;
     font-family: 'Arial Black';
-    font-size: 35px;
+    font-size: 40px;
 }
 
 #Full_Name {
-    color: blue;
+    color: #06bffd;
 }
 
 #myPic {
@@ -23,6 +23,11 @@ p {
     margin-left: 20%;
     font-size: 23px;
     
+}
+
+#Nickname, #Fave_CMSC_Subject, #Fave_GE_Course, #Fave_PL, #Fave_Food {
+    background-color: #bdeeff;
+    font-weight: bold;
 }
 
 body{
