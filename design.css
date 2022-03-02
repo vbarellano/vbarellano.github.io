@@ -21,7 +21,7 @@ p {
     margin-left: 10%;
     font-size: 23px;
 }
-#fullName_p, #Nickname, #Fave_CMSC_Subject, #Fave_GE_Course, #Fave_PL, #Fave_Food {
+#fullName_p, #Nickname, #Fave_CMSC_Subject, #Fave_GE_Course, #Fave_PL, #Fave_Food, #hobby1, #hobby2, #hobby3, #hobby4, #childhoodDream {
     background-color: #bdeeff;
     font-weight: bold;
 }
