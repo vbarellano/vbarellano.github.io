@@ -27,9 +27,9 @@ p {
 }
 
 #box{
-    background-color: #FF0000;
+    border: 15px solid green;
     weight:300;
-    height:350
+    height:350;
 } 
 body{
     background-image: url('images/dotBackground.png');
