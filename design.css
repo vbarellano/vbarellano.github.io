@@ -25,6 +25,10 @@ p {
     background-color: #bdeeff;
     font-weight: bold;
 }
+
+#box{
+    background-color: #FF0000;  
+} 
 body{
     background-image: url('images/dotBackground.png');
     background-color: white;
