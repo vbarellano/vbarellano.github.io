@@ -28,8 +28,8 @@ p {
 
 #box{
     border: 5px solid green;
-    weight:300px;
-    height:350px;
+    weight: 300px;
+    height: 350px;
 } 
 body{
     background-image: url('images/dotBackground.png');
