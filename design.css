@@ -27,7 +27,7 @@ p {
 }
 
 #box{
-    background:green;
+    background-color: green;
     weight:300;
     height:350;
 } 
