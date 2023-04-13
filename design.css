@@ -28,7 +28,7 @@ p {
 
 #box{
     border: 5px solid green;
-    weight: 300px;
+    width: 300px;
     height: 350px;
 } 
 body{
